@@ -1,7 +1,7 @@
 #  React useContext y react-router-dom
 
 Desarrollo de módulos con react-router-dom y uso del hook useContext para compartir datos entre
-componentes hermanos
+componentes hermanos. Ejemplo: Compartir información de login hacia Home
 
 ## Consideraciones previas
 
